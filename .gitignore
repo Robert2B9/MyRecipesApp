@@ -482,4 +482,4 @@ $RECYCLE.BIN/
 *.swp
 
 
-RecipeApp/Resources/Raw/secrets.json
+RecipeApp/RecipeApp/Resources/Raw/secrets.json
