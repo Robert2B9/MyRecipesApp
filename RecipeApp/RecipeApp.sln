@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApp", "RecipeApp\RecipeApp.csproj", "{566F369B-5A94-4B00-BE6A-61E7ED83DF5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApp.Domain", "RecipeApp.Domain\RecipeApp.Domain.csproj", "{CA25F979-76AF-40B1-8A52-37CE50D71F60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{566F369B-5A94-4B00-BE6A-61E7ED83DF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566F369B-5A94-4B00-BE6A-61E7ED83DF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566F369B-5A94-4B00-BE6A-61E7ED83DF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA25F979-76AF-40B1-8A52-37CE50D71F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA25F979-76AF-40B1-8A52-37CE50D71F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA25F979-76AF-40B1-8A52-37CE50D71F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA25F979-76AF-40B1-8A52-37CE50D71F60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,7 +1,6 @@
-using System.Threading.Tasks;
 using RecipeApp.Domain.Models;
 
-namespace RecipeApp.Domain.Services;
+namespace RecipeApp.Abstractions;
 
 /// <summary>
 /// Lets ViewModels move between screens without referencing MAUI's Shell.
